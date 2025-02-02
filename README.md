@@ -1,4 +1,7 @@
-# IDM Activation Script
+<div align="center">
+    <img height="150" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952si8d5ifypco8njtosf2sarpv98d04xjfm2mdtxz4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+# IDM Activation Script 📔
 An open-source tool to activate and reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
 
 # Features
@@ -8,12 +11,12 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 * Fully open source
 * Based on the transparent batch script
 
-# Download / How to use it?
+# Download / How to use it? ⬇️
 First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
 After that follow the below steps to activate it.
 
 
-# Method 1 - PowerShell
+# Method 1 - PowerShell 
 (Recommended)
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
@@ -35,13 +38,13 @@ After that follow the below steps to activate it.
 
 ![https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/2.png)
 
-# Info
+# Info ℹ️
 ## Freeze Trial
 * IDM provides a 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won’t have to reset the trial again and your trial won’t expire.
 * This method requires the Internet at the time of applying this option.
 * IDM updates can be installed directly without having to freeze it again.
 
-## Activation
+## Activation 
 
 * This script applies the registry lock method to activate the Internet download manager (IDM).
 * This method requires the Internet at the time of activation.
