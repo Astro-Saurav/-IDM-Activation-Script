@@ -35,7 +35,6 @@ After that follow the below steps to activate it.
 * IDM updates can be installed directly without having to freeze it again.
 
 ## Activation
-(***Currently not working**)
 
 * This script applies the registry lock method to activate the Internet download manager (IDM).
 * This method requires the Internet at the time of activation.
