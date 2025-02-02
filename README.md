@@ -30,29 +30,29 @@ After that follow the below steps to activate it.
 * That’s all.
 
 
-# Screenshots
+# Screenshots 📸
 ![https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/1.png)
 
 ![https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/2.png)
 
 # Info ℹ️
-## Freeze Trial
+## Freeze Trial 🥶
 * IDM provides a 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won’t have to reset the trial again and your trial won’t expire.
 * This method requires the Internet at the time of applying this option.
 * IDM updates can be installed directly without having to freeze it again.
 
-## Activation 
+## Activation ✅
 
 * This script applies the registry lock method to activate the Internet download manager (IDM).
 * This method requires the Internet at the time of activation.
 * IDM updates can be installed directly without having to activate it again.
 * After the activation, if in some cases, IDM starts to show an activation nag screen, then just run the activation option again without using the reset option.
 
-## Reset IDM Activation / Trial
+## Reset IDM Activation / Trial ®️
 * Internet download manager provides a 30-day trial period, you can use this script to reset this Activation / Trial period whenever you want.
 * This option also can be used to restore status if in case IDM reports a fake serial key and other similar errors.
 
-## OS requirement
+## OS requirement 
 * The project is supported for Windows 7/8/8.1/10/11 and their Server equivalent.
 * The PowerShell method to run IAS is supported on Windows 8 and higher.
 
