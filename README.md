@@ -7,17 +7,17 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 * IDM trial reset
 * Fully open source
 * Based on the transparent batch script
+  
+# Screenshots
+![IAS]([https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/1.png))
 
-# IAS Latest Release
-Last Release - v1.2 (12-Feb-2024)
-[GitHub](https://github.com/Astro-Saurav/-IDM-Activation-Script)
+![IAS_Freeze_Trial]([https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/2.png))
+
 
 # Download / How to use it?
 First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
 After that follow the below steps to activate it.
 
-# Note
-* 📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
 
 # Method 1 - PowerShell
 (Recommended)
